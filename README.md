@@ -1,7 +1,6 @@
 # -NotebookLM_Evaluation
 Assigment3
-#Summarization
-![image alt](https://github.com/Ashishthapa99/-NotebookLM_Evaluation/blob/eea5d82b96531c2d3a89caa7bad3b0af84c5306d/notebook.PNG)
+
 1. Content Summarization
 Description: NotebookLM generates a concise summary of the uploaded content, providing an overview of the main topics and findings.
 Example: The "Melbourne Tourism Chatbot" report was summarized, highlighting its purpose, features, and functionality.
@@ -12,7 +11,7 @@ Outcome: The summary extracted core information, allowing users to quickly under
 Description: NotebookLM answers questions about specific aspects of the content.
 Example: A question was asked, "How does the Melbourne Tourism Chatbot personalize attraction recommendations?"
 Outcome: NotebookLM provided an answer explaining the chatbot's personalization of attraction recommendations to enhance user experience.
-![image alt](https://github.com/Ashishthapa99/-NotebookLM_Evaluation/blob/eea5d82b96531c2d3a89caa7bad3b0af84c5306d/notebook.PNG)
+![image alt](https://github.com/Ashishthapa99/-NotebookLM_Evaluation/blob/4c3ada006bb3228082b1cbf92250c7322b920cb3/finalq222.PNG)
 
 5. Topic Identification and Note Organization
 Description: NotebookLM identifies key topics within the document, making it easier to navigate complex material.
