@@ -17,6 +17,7 @@ Outcome: NotebookLM provided an answer explaining the chatbot's personalization 
 Description: NotebookLM identifies key topics within the document, making it easier to navigate complex material.
 Example: Key topics such as "Tourist experience," "Chatbot features," and "Melbourne tourism" were identified in the report.
 Outcome: This organization feature helped structure the document, allowing users to access specific sections quickly.
+![image alt](https://github.com/Ashishthapa99/-NotebookLM_Evaluation/blob/d67f710fe701785e34ae6e1b5ef665fff06cd20c/finalthesis.PNG)
 
 7. Critical Analysis Support
 Description: NotebookLM analyzes specific functionalities within the document, offering a critical assessment of strengths and weaknesses.
